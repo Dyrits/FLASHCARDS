@@ -1,4 +1,8 @@
 # Challenge Project: Flashcards
+
+<details>
+<summary>[Codecademy - Full-Stack Engineer Career Path] Redux / Challenge Project: Flashcards</summary>
+
 ## Overview
 Instead of a step-by-step tutorial, this project contains a series of open-ended requirements which describe the project you’ll be building. There are many possible ways to correctly fulfill all of these requirements, and you should expect to use the internet, Codecademy, and other resources when you encounter a problem that you cannot easily solve.
 
@@ -9,6 +13,8 @@ The following task descriptions will walk through implementing the app’s Redux
 
 ## Setup Instructions
 If you choose to do this project on your computer instead of Codecademy, you can download what you’ll need by clicking the “Download” button below. Make sure you have [Node installed on your computer](https://www.codecademy.com/article/setting-up-node-locally) and then, inside the project’s root directory, run `npm install`. Finally, run `npm start` which will automatically open up a new tab in your browser with your running application. If a new tab does not appear, you can visit [http://localhost:3000/](http://localhost:3000/).
+
+</details>
 
 ---
 
